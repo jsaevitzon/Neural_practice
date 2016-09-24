@@ -13,7 +13,7 @@ def sigFunc(z):
 # 
 def quadCostFunc(w, b):
 
-
+    a
     
 
 
